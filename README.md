@@ -59,13 +59,6 @@ class kienkien05:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kienkien05&show_icons=true&theme=tokyonight&border_color=a78bfa&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kienkien05&layout=compact&theme=tokyonight&border_color=a78bfa&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kienkien05&theme=tokyonight&border=a78bfa&ring=a78bfa&fire=fbbf24&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
 </div>

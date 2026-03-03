@@ -20,7 +20,7 @@
 ```python
 class kienkien05:
     location   = "Vietnam"
-    focus      = ["Machine Learning", "Computer Vision", "NLP"]
+    focus      = ["Machine Learning", "Deep learning", "NLP]
     currently  = "Learning & building AI projects"
     stack      = ["Python", "PyTorch", "Scikit-learn", "OpenCV"]
     learning   = ["Deep Learning", "Transformers", "Model Deployment"]

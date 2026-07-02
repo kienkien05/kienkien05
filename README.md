@@ -1,95 +1,60 @@
-<div align="center">
+<h1 align="center">Trương Trung Kiên</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=kienkien05&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Computer%20Vision%20%7C%20NLP&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<p align="center">
+  Computer Science Student | Data Scientist Intern Candidate
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=560&lines=Machine+Learning+%7C+Computer+Vision+%7C+NLP;Building+with+PyTorch;One+epoch+at+a+time." alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="mailto:ktruongtrung5@gmail.com">ktruongtrung5@gmail.com</a> ·
+  <a href="https://github.com/kienkien05">github.com/kienkien05</a>
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-1F4E79?style=flat-square" alt="XGBoost" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kienkien05&color=a78bfa&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/kienkien05?label=Followers&style=flat-square&color=a78bfa)](https://github.com/kienkien05?tab=followers)
-
-</div>
-
----
-
-## About Me
-
-```python
-class kienkien05:
-    location   = "Vietnam"
-    focus      = ["Machine Learning", "Deep learning", "NLP]
-    currently  = "Learning & building AI projects"
-    stack      = ["Python", "PyTorch", "Scikit-learn", "OpenCV"]
-    learning   = ["Deep Learning", "Transformers", "Model Deployment"]
-```
-
----
-
-## AI / ML Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-</div>
-
----
-
-## Focus Areas
-
-| Computer Vision | NLP | Machine Learning |
-|:---:|:---:|:---:|
-| Image Classification | Text Classification | Supervised Learning |
-| Object Detection | Tokenization & Embeddings | Model Evaluation |
-| CNN Architectures | Sequence Modeling | Feature Engineering |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kienkien05&theme=tokyonight&border=a78bfa&ring=a78bfa&fire=fbbf24&currStreakLabel=a78bfa)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 2025 Goals
-
-- [x] Master Python for AI/ML
-- [ ] Deep dive into Deep Learning & Neural Networks
-- [ ] Complete a real-world Computer Vision project
-- [ ] Build an end-to-end NLP application
-- [ ] Deploy a model to production
-- [ ] Contribute to open-source AI projects
-
----
-
-## Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-kienkien05-%23121011?style=for-the-badge&logo=github)](https://github.com/kienkien05)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-*"A model is only as good as the data you feed it — and the curiosity that drives you."*
-
-</div>
+About
+I am a Computer Science student at Thang Long University, focusing on applied data science and machine learning projects. My work is centered on turning raw data into features, evaluated models, and decision-support outputs.
+Current focus areas:
+Customer analytics and banking machine learning
+Fraud/anomaly detection and explainable ML
+Feature engineering and model evaluation
+Recommendation/ranking metrics for imbalanced problems
+Computer vision dataset preparation and label standardization
+Featured Projects
+Customer 360 Banking ML System
+End-to-end machine learning project for banking Customer 360 analytics.
+Processed 6 banking data tables and more than 16M digital activity events.
+Built customer-level features for around 290K customers.
+Developed three modeling tracks: customer persona segmentation, anomaly/suspicious-behavior ranking, and Next Best Financial Offer prediction.
+Evaluated imbalanced product-adoption tasks with AUC-PR and Top-10% Lift.
+Designed a decision layer that combines offer scores with fraud-risk screening.
+Sentinel Mesh IDS
+Explainable network intrusion detection project built in a VMware lab environment.
+Used an Ubuntu NFStream sensor, Flask/SocketIO dashboard, and Kali Linux attack-lab scenarios.
+Implemented a two-gate classification flow for Benign/Attack detection and 16 attack labels.
+Integrated SHAP explanations for model interpretability.
+Best binary gate result: 95.98% accuracy and 0.931 macro-F1.
+AIoT UAV Detection Dataset Engineering
+Computer vision dataset engineering project for UAV detection.
+Standardized UAV detection data into YOLO format.
+Converted labels from YOLO TXT and Pascal VOC XML.
+Preserved source manifests and original labels for traceability.
+Prepared train-ready labels under a unified uav class.
+Technical Stack
+Languages: Python, SQL, Bash/PowerShell
+Data/ML: pandas, NumPy, scikit-learn, XGBoost, SHAP
+Methods: feature engineering, time-based split, imbalanced-class handling, clustering, anomaly detection, supervised learning, model evaluation
+Tools: Jupyter/Colab, Git/GitHub, Flask, Flask-SocketIO, NFStream, VMware, Linux
+Currently Improving
+SQL depth for data analysis tasks
+Statistics and machine learning fundamentals
+Clearer project documentation and reproducible workflows
+Interview-ready explanations for model choices, metrics, and tradeoffs
+Contact
+Email: ktruongtrung5@gmail.com
+GitHub: github.com/kienkien05
